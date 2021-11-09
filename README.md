@@ -26,9 +26,9 @@
 
 # [Volume 2](https://openstax.org/details/books/calculus-volume-2)
 
-## 1. Integration (See Vol1. ch5.)
+## 1. Integration (See vol1. ch5.)
 
-## 2. Applications of Integration (See Vol1. ch6.)
+## 2. Applications of Integration (See vol1. ch6.)
 
 ## 3. Techniques of Integration
 ### 3.1 [](./vol2/ch03/ch03-01.md)
@@ -44,7 +44,7 @@
 
 # [Volume 3](https://openstax.org/details/books/calculus-volume-3)
 
-## 1. Parametric Equations and Polar Coordinates (See Vol2. ch7.)
+## 1. Parametric Equations and Polar Coordinates (See vol2. ch7.)
 
 ## 2. Vectors in Space
 
