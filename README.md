@@ -12,7 +12,7 @@
 ### 1.5 [Exponential and Logarithmic Functions](./vol1/ch01/ch01-05.md)
 
 ## 2. Limits
-### 
+### 2.1 [A Preview of Calculus](./vol1/ch02/ch02-01.md)
 
 ## 3. Derivatives
 
