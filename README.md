@@ -71,8 +71,20 @@
 ## 2. Applications of Integration (See vol1. ch6.)
 
 ## 3. Techniques of Integration
+### 3.1 [Integration by Parts](./vol2/ch03/ch03-01.md)
+### 3.2 [Trigonometric Integrals](./vol2/ch03/ch03-02.md)
+### 3.3 [Trigonometric Substitution](./vol2/ch03/ch03-03.md)
+### 3.4 [Partial Fractions](./vol2/ch03/ch03-04.md)
+### 3.5 [Other Strategies for Integration](./vol2/ch03/ch03-05.md)
+### 3.6 [Numerical Integration](./vol2/ch03/ch03-06.md)
+### 3.7 [Improper Integrals](./vol2/ch03/ch03-07.md)
 
 ## 4. Introduction to Differential Equations
+### 4.1 [Basics of Differential Equations](./vol2/ch04/ch04-01.md)
+### 4.2 [](./vol2/ch04/ch04-02.md)
+### 4.3 [](./vol2/ch04/ch04-03.md)
+### 4.4 [](./vol2/ch04/ch04-04.md)
+### 4.5 [](./vol2/ch04/ch04-05.md)
 
 ## 5. Sequences and Series
 
