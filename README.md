@@ -81,16 +81,31 @@
 
 ## 4. Introduction to Differential Equations
 ### 4.1 [Basics of Differential Equations](./vol2/ch04/ch04-01.md)
-### 4.2 [](./vol2/ch04/ch04-02.md)
-### 4.3 [](./vol2/ch04/ch04-03.md)
-### 4.4 [](./vol2/ch04/ch04-04.md)
-### 4.5 [](./vol2/ch04/ch04-05.md)
+### 4.2 [Direction Fields and Numerical Methods](./vol2/ch04/ch04-02.md)
+### 4.3 [Separable Equations](./vol2/ch04/ch04-03.md)
+### 4.4 [The Logistic Equation](./vol2/ch04/ch04-04.md)
+### 4.5 [First-order Linear Equations](./vol2/ch04/ch04-05.md)
 
 ## 5. Sequences and Series
+### 5.1 [Sequences](./vol2/ch05/ch05-01.md)
+### 5.2 [Infinite Series](./vol2/ch05/ch05-02.md)
+### 5.3 [The Divergence and Integral Tests](./vol2/ch05/ch05-03.md)
+### 5.4 [Comparison Tests](./vol2/ch05/ch05-04.md)
+### 5.5 [Alternating Series](./vol2/ch05/ch05-05.md)
+### 5.6 [Ratio and Root Tests](./vol2/ch05/ch05-06.md)
 
 ## 6. Power Series
+### 6.1 [Power Series and Functions](./vol2/ch06/ch06-01.md)
+### 6.2 [Properties of Power Series](./vol2/ch06/ch06-02.md)
+### 6.3 [Taylor and Maclaurin Series](./vol2/ch06/ch06-03.md)
+### 6.4 [Working with Taylor Series](./vol2/ch06/ch06-04.md)
 
 ## 7. Parametric Equations and Polar Coordinates
+### 7.1 [Parametric Equations](./vol2/ch07/ch07-01.md)
+### 7.2 [Calculus of Parametric Curves](./vol2/ch07/ch07-02.md)
+### 7.3 [Polar Coordinates](./vol2/ch07/ch07-03.md)
+### 7.4 [Area and Arc Length in Polar Coordinates](./vol2/ch07/ch07-04.md)
+### 7.5 [Conic Sections](./vol2/ch07/ch07-05.md)
 
 
 # [Volume 3](https://openstax.org/details/books/calculus-volume-3)
@@ -98,6 +113,7 @@
 ## 1. Parametric Equations and Polar Coordinates (See vol2. ch7.)
 
 ## 2. Vectors in Space
+### 2.1 [](./vol3/ch02/ch02-01.md)
 
 ## 3. Vector-Valued Functions
 
