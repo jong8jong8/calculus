@@ -113,14 +113,49 @@
 ## 1. Parametric Equations and Polar Coordinates (See vol2. ch7.)
 
 ## 2. Vectors in Space
-### 2.1 [](./vol3/ch02/ch02-01.md)
+### 2.1 [Vectors in the Plane](./vol3/ch02/ch02-01.md)
+### 2.2 [Vectors in Three Dimensions](./vol3/ch02/ch02-02.md)
+### 2.3 [The Dot Product](./vol3/ch02/ch02-03.md)
+### 2.4 [The Cross Product](./vol3/ch02/ch02-04.md)
+### 2.5 [Equations of Lines and Planes in Space](./vol3/ch02/ch02-05.md)
+### 2.6 [Quadric Surfaces](./vol3/ch02/ch02-06.md)
+### 2.7 [Cylindrical and Spherical Coordinates](./vol3/ch02/ch02-07.md)
 
 ## 3. Vector-Valued Functions
+### 3.1 [Vector-Valued Functions and Space Curves](./vol3/ch03/ch03-01.md)
+### 3.2 [Calculus of Vector-Valued Functions](./vol3/ch03/ch03-02.md)
+### 3.3 [Arc Length and Curvature](./vol3/ch03/ch03-03.md)
+### 3.4 [Motion in Space](./vol3/ch03/ch03-04.md)
 
 ## 4. Differentiation of Functions of Several Variables
+### 4.1 [Functions of Several Variables](./vol3/ch04/ch04-01.md)
+### 4.2 [Limits and Continuity](./vol3/ch04/ch04-02.md)
+### 4.3 [Partial Derivatives](./vol3/ch04/ch04-03.md)
+### 4.4 [Tangent Planes and Linear Approximations](./vol3/ch04/ch04-04.md)
+### 4.5 [The Chain Rule](./vol3/ch04/ch04-05.md)
+### 4.6 [Directional Derivatives and the Gradient](./vol3/ch04/ch04-06.md)
+### 4.7 [Maxima/Minima Problems](./vol3/ch04/ch04-07.md)
+### 4.8 [Lagrange Multipliers](./vol3/ch04/ch04-08.md)
 
 ## 5. Multiple Integration
+### 5.1 [Double Integrals over Rectangular Regions](./vol3/ch05/ch05-01.md)
+### 5.2 [Double Integrals over General Regions](./vol3/ch05/ch05-02.md)
+### 5.3 [Double Integrals in Polar Coordinates](./vol3/ch05/ch05-03.md)
+### 5.4 [Triple Integrals](./vol3/ch05/ch05-04.md)
+### 5.5 [Triple Integrals in Cylindrical and Spherical Coordinates](./vol3/ch05/ch05-05.md)
 
 ## 6. Vector Calculus
+### 6.1 [Vector Fields](./vol3/ch06/ch06-01.md)
+### 6.2 [Line Integrals](./vol3/ch06/ch06-02.md)
+### 6.3 [Conservative Vector Fields](./vol3/ch06/ch06-03.md)
+### 6.4 [Green’s Theorem](./vol3/ch06/ch06-04.md)
+### 6.5 [Divergence and Curl](./vol3/ch06/ch06-05.md)
+### 6.6 [Surface Integrals](./vol3/ch06/ch06-06.md)
+### 6.7 [Stokes’ Theorem](./vol3/ch06/ch06-07.md)
+### 6.8 [The Divergence Theorem](./vol3/ch06/ch06-08.md)
 
 ## 7. Second-Order Differential Equations
+### 7.1 [Second-Order Linear Equations](./vol3/ch07/ch07-01.md)
+### 7.2 [Nonhomogeneous Linear Equations](./vol3/ch07/ch07-02.md)
+### 7.3 [Applications](./vol3/ch07/ch07-03.md)
+### 7.4 [Series Solutions of Differential Equations](./vol3/ch07/ch07-04.md)
