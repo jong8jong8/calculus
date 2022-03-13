@@ -1,6 +1,5 @@
 # Calculus
 
-- Install [GitHub Math Display](https://chrome.google.com/webstore/detail/github-math-display/cgolaobglebjonjiblcjagnpmdmlgmda/related?hl=en) to see math expressions in your chrome browser.
 
 # [Volume 1](https://openstax.org/details/books/calculus-volume-1)
 
