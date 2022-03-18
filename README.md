@@ -8,4 +8,4 @@
 - [OpenStax - Calculus Vol.1](https://openstax.org/details/books/calculus-volume-1)
 - [OpenStax - Calculus Vol.2](https://openstax.org/details/books/calculus-volume-2)
 - [OpenStax - Calculus Vol.3](https://openstax.org/details/books/calculus-volume-3)
-
+- [3Blue1Brown Essence of calculus](https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr)
