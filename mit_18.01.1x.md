@@ -11,7 +11,7 @@
 > Skip
 
 #### 3. Moving closer and closer
-
+> Watch video
 
 - 🎯 `geogebra` practice
 
