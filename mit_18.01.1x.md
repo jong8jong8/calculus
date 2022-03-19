@@ -29,3 +29,14 @@ P=(Input,Output)
 #### 4. One-sided limits
 > Watch video
 
+- 🎯 `geogebra` practice
+
+```
+f(x)=((sqrt(3-5 x+x^(2)+x^(3)))/(x-1))
+a=LimitBelow(f(x),1)
+b=LimitAbove(f(x),1)
+```
+
+#### 5. Definitions of right-hand and left-hand limits
+> Read
+
