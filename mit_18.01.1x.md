@@ -40,3 +40,19 @@ b=LimitAbove(f(x),1)
 #### 5. Definitions of right-hand and left-hand limits
 > Read
 
+#### 6. A few more limits
+> Homework
+
+#### 7. Possible limit behaviors
+> Watch video
+
+
+
+
+
+
+
+
+
+
+
