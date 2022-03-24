@@ -9,7 +9,6 @@
 #### 3. Moving closer and closer
 > Watch video
 - 🎯 `geogebra` practice
-
 ```
 f(x)=((sqrt(3-5 x+x^(2)+x^(3)))/(x-1))
 a_{0}=f(0)
