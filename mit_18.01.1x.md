@@ -46,6 +46,62 @@ b=LimitAbove(f(x),1)
 #### 7. Possible limit behaviors
 > Watch video
 
+#### 8. Quick limit questions
+> Workout
+
+#### 9. The overall limit
+> Watch video
+
+#### 10. Limit definition
+> Read
+
+#### 11. Limits from graphs
+> Workout
+
+#### 12. Review problems
+> Workout
+
+- 🎯 `geogebra` practice
+
+```
+# Floor function
+
+f(x)=floor(x)
+a=f(1.99)
+b=f(2.01)
+c=f(2)
+```
+
+#### 13. Limit laws
+> Watch video
+
+#### 14. Limit Laws
+> Read
+
+#### 15. Summary
+> Read
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
