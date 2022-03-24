@@ -1,18 +1,13 @@
 # MIT 18.01.1x Calculus 1A: Differentiation (미분학)
 
 ## Unit 0: Limits (극한)
-
 ### Introduction to Limits
-
 #### 1. Motivation
 > Watch video
-
 #### 2. Introduction to limits
-> Skip
-
+> Read
 #### 3. Moving closer and closer
 > Watch video
-
 - 🎯 `geogebra` practice
 
 ```
@@ -81,6 +76,62 @@ c=f(2)
 #### 15. Summary
 > Read
 
+
+
+
+
+### Continuity 
+
+#### 1. Motivation
+> Skip
+
+#### 2. How do we compute limits?
+> Skip
+
+#### 3. Continuity
+> Watch video & Read
+
+#### 4. Continuity questions
+> Workout
+
+#### 5. More continuity questions
+> Workout
+
+#### 6. Overall continuity
+> Watch video
+
+#### 7. Continuity continued
+> Workout
+
+#### 8. Limit Laws and continuity
+> Workout & Watch video
+
+#### 9. Review of continuity
+> Workout
+
+#### 10. Catalog of continuous functions
+> Read
+
+#### 11. IVT Intro
+> Workout & Watch video
+
+#### 12. Intermediate Value Theorem
+> Read
+
+#### 13. Basics
+> Workout & Watch video
+
+#### 14. Roots
+> Workout
+
+#### 15. Summary
+> Read
+
+
+
+### Limits of quotients
+
+#### 
 
 
 
