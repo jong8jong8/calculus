@@ -90,7 +90,10 @@ c=f(2)
 #### 15. Summary
 > Read
 ### Limits of quotients
-#### 
+#### 1. Limits of quotients
+> Watch video
+
+
 
 
 
