@@ -19,44 +19,31 @@ Input={0,0.5,0.9,0.99}
 Output={a_{0},a_{1},a_{2},a_{3}}
 P=(Input,Output)
 ```
-
 #### 4. One-sided limits
 > Watch video
-
 - 🎯 `geogebra` practice
-
 ```
 f(x)=((sqrt(3-5 x+x^(2)+x^(3)))/(x-1))
 a=LimitBelow(f(x),1)
 b=LimitAbove(f(x),1)
 ```
-
 #### 5. Definitions of right-hand and left-hand limits
 > Read
-
 #### 6. A few more limits
-> Homework
-
+> Workout
 #### 7. Possible limit behaviors
 > Watch video
-
 #### 8. Quick limit questions
 > Workout
-
 #### 9. The overall limit
 > Watch video
-
 #### 10. Limit definition
 > Read
-
 #### 11. Limits from graphs
 > Workout
-
 #### 12. Review problems
 > Workout
-
 - 🎯 `geogebra` practice
-
 ```
 # Floor function
 
@@ -65,71 +52,44 @@ a=f(1.99)
 b=f(2.01)
 c=f(2)
 ```
-
 #### 13. Limit laws
 > Watch video
-
 #### 14. Limit Laws
 > Read
-
 #### 15. Summary
 > Read
-
-
-
-
-
 ### Continuity 
-
 #### 1. Motivation
-> Skip
-
+> Watch vidoe
 #### 2. How do we compute limits?
-> Skip
-
+> Read
 #### 3. Continuity
 > Watch video & Read
-
 #### 4. Continuity questions
 > Workout
-
 #### 5. More continuity questions
 > Workout
-
 #### 6. Overall continuity
 > Watch video
-
 #### 7. Continuity continued
 > Workout
-
 #### 8. Limit Laws and continuity
 > Workout & Watch video
-
 #### 9. Review of continuity
 > Workout
-
 #### 10. Catalog of continuous functions
 > Read
-
 #### 11. IVT Intro
 > Workout & Watch video
-
 #### 12. Intermediate Value Theorem
 > Read
-
 #### 13. Basics
 > Workout & Watch video
-
 #### 14. Roots
 > Workout
-
 #### 15. Summary
 > Read
-
-
-
 ### Limits of quotients
-
 #### 
 
 
