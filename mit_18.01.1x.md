@@ -100,7 +100,30 @@ c=f(2)
 > Workout
 #### 5. Small divided by small
 > Watch video
-#### 
+#### 6. Limit Law for Division
+> Read
+#### 7. Limit Laws
+> Workout
+#### 8. Using the division limit law
+> Watch video
+#### 9. Division limit questions
+> Workout
+#### 10. Review problems
+> Workout
+#### 11. Limits that don't exist
+> Watch video & Workout
+#### 12. Another function
+> Workout
+#### 13. Infinite limits 2
+> Watch vidoe
+#### 14. What is the limit?
+> Workout
+#### 15. Division involving infinite limits
+> Workout
+#### 16. Summary
+> Read
+
+
 
 
 
