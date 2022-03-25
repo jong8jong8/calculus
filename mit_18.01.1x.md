@@ -92,9 +92,15 @@ c=f(2)
 ### Limits of quotients
 #### 1. Limits of quotients
 > Watch video
-
-
-
+#### 2. How do we compute limits of quotients?
+> Read
+#### 3. Limits and division
+> Watch vidoe & Workout
+#### 4. Quotients of small numbers
+> Workout
+#### 5. Small divided by small
+> Watch video
+#### 
 
 
 
