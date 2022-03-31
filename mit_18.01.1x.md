@@ -2,8 +2,6 @@
 
 ## Unit 0: Limits
 
-### Introduction to Limits
-
 - 🎯 `geogebra` practice
 ```
 f(x)=((sqrt(3-5 x+x^(2)+x^(3)))/(x-1))
@@ -24,6 +22,7 @@ a=LimitBelow(f(x),1)
 b=LimitAbove(f(x),1)
 ```
 
+
 - 🎯 `geogebra` practice
 ```
 # Floor function
@@ -34,9 +33,9 @@ b=f(2.01)
 c=f(2)
 ```
 
+## Unit 1: The Derivative 
 
 
-### What is the derivative? 
 
 
 
