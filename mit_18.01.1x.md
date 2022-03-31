@@ -41,9 +41,12 @@ a = 1
 b = 2
 A = (a, f(a))
 B = (b, f(b))
-m_{sec} = (y(B) - y(A)) / (x(B) - x(A))
 g: Line(A,B)
 m_{line} = Slope(g)
+m_{sec} = (y(B) - y(A)) / (x(B) - x(A))
+m_{lim} = Limit((f(x) - f(a))/(x - a), a)
+f'(x) = Derivative(f(x))
+m_{tan} = f'(a)
 ```
 
 
