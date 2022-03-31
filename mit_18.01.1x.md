@@ -25,8 +25,6 @@ b=LimitAbove(f(x),1)
 
 - 🎯 `geogebra` practice
 ```
-# Floor function
-
 f(x)=floor(x)
 a=f(1.99)
 b=f(2.01)
@@ -35,9 +33,18 @@ c=f(2)
 
 ## Unit 1: The Derivative 
 
+- 🎯 geogebra practice 
 
-
-
+```
+f(x) = x^2
+a = 1
+b = 2
+A = (a, f(a))
+B = (b, f(b))
+m_{sec} = (y(B) - y(A)) / (x(B) - x(A))
+g: Line(A,B)
+m_{line} = Slope(g)
+```
 
 
 
