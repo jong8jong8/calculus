@@ -3,12 +3,7 @@
 
 # [Volume 1](https://openstax.org/details/books/calculus-volume-1)
 
-## 2. Limits
-### 2.1 [A Preview of Calculus](./vol1/ch02/ch02-01.md)
-### 2.2 [The Limit of a Function](./vol1/ch02/ch02-02.md)
-### 2.3 [The Limit Laws](./vol1/ch02/ch02-03.md)
-### 2.4 [Continuity](./vol1/ch02/ch02-04.md)
-### 2.5 [The Precise Definition of a Limit](./vol1/ch02/ch02-05.md)
+
 
 ## 3. Derivatives
 ### 3.1 [Defining the Derivative](./vol1/ch03/ch03-01.md)
