@@ -3,13 +3,6 @@
 
 # [Volume 1](https://openstax.org/details/books/calculus-volume-1)
 
-## 1. Functions and Graphs
-### 1.1 [Review of Functions](./vol1/ch01/ch01-01.md)
-### 1.2 [Basic Classes of Functions](./vol1/ch01/ch01-02.md)
-### 1.3 [Trigonometric Functions](./vol1/ch01/ch01-03.md)
-### 1.4 [Inverse Functions](./vol1/ch01/ch01-04.md)
-### 1.5 [Exponential and Logarithmic Functions](./vol1/ch01/ch01-05.md)
-
 ## 2. Limits
 ### 2.1 [A Preview of Calculus](./vol1/ch02/ch02-01.md)
 ### 2.2 [The Limit of a Function](./vol1/ch02/ch02-02.md)
