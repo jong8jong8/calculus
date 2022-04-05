@@ -50,6 +50,14 @@ m_{tan} = f'(a)
 ```
 
 
+- 🎯 geogebra practice 
+
+```
+C = 5
+f(x)=((1)/(5)) (x-3)^(5)-((4)/(3)) (x-3)^(3)+C
+f'(x)=Derivative(f(x),x)
+```
+
 
 
 
