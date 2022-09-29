@@ -12,3 +12,11 @@
 - [OpenStax Calculus Vol.3](https://openstax.org/details/books/calculus-volume-3)
 - [3Blue1Brown Essence of calculus](https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr)
 - [3Blue1Brown Differential equations](https://www.youtube.com/playlist?list=PLZHQObOWTQDNPOjrT6KVlfJuKtYTftqH6)
+
+
+# Geogebra 명령어
+- [Limit](https://wiki.geogebra.org/en/Limit_Command)
+- [LimitAbove](https://wiki.geogebra.org/en/LimitAbove_Command)
+- [LimitBelow](https://wiki.geogebra.org/en/LimitBelow_Command)
+- [Derivative](https://wiki.geogebra.org/en/Derivative_Command)
+- [ImplicitDerivative](https://wiki.geogebra.org/en/ImplicitDerivative_Command)
